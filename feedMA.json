@@ -1,0 +1,12 @@
+"feedMA": [
+			{
+				"Categ"		: "nNews",
+				"name"		: "le360",
+				"url"		: "https://ar.le360.ma/rss/"
+			},
+			{
+				"Categ"		: "nNews",
+				"name"		: "Hespress",
+				"url"		: "https://www.hespress.com/feed"
+			}
+		]
